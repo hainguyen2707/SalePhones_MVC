@@ -17,14 +17,19 @@ Chức năng **ADMIN**:
   - Quản lý khối lượng lớn dữ liệu (sản phẩm, đơn hàng, thông tin khách hàng) một cách hiệu quả có thể gặp khó khăn
   
   <h3> Screenshots </h3>
-  Trang chủ:<br>
-  ![image1](https://github.com/user-attachments/assets/059b6d07-f395-42fb-97eb-e0ccbca258a3)  <br>
-  Khuyễn mại:<br>
-  ![image2](https://github.com/user-attachments/assets/1d92286b-e3a9-4b47-85f1-524c66ef60aa)   <br>
-  Đăng nhập:<br>
-  ![image3](https://github.com/user-attachments/assets/dc9d58d0-3993-440a-b38c-b195c2661994)     <br>
-  Đăng ký:<br>
-  ![image4](https://github.com/user-attachments/assets/a1a8c21a-0d3e-4a3b-bd01-f56764693163)    <br>
+  Trang chủ:
+  
+  ![image1](https://github.com/user-attachments/assets/059b6d07-f395-42fb-97eb-e0ccbca258a3)   
+  
+  Khuyễn mại:
+  
+  ![image2](https://github.com/user-attachments/assets/1d92286b-e3a9-4b47-85f1-524c66ef60aa)   
+  Đăng nhập:
+  
+  ![image3](https://github.com/user-attachments/assets/dc9d58d0-3993-440a-b38c-b195c2661994)     
+  Đăng ký:
+  
+  ![image4](https://github.com/user-attachments/assets/a1a8c21a-0d3e-4a3b-bd01-f56764693163)     
 
   
   ![image](https://github.com/user-attachments/assets/76642f73-9271-4e0d-aaf5-e941d56adcff)
