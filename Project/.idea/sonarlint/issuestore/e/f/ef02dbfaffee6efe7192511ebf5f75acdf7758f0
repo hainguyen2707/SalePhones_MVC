@@ -1,0 +1,9 @@
+
+W
+java:S6909."<Move this loop-invariant setter invocation out of this loop.(©ÎĞóüÿÿÿÿ
+c
+java:S3252"HUse static access with "java.sql.Statement" for "RETURN_GENERATED_KEYS".(ÍÒôÙıÿÿÿÿ
+q
+java:S69129"VUse "addBatch" and "executeBatch" to execute multiple SQL statements in a single call.(×©¡üÿÿÿÿ
+l
+java:S69122"VUse "addBatch" and "executeBatch" to execute multiple SQL statements in a single call.(êé¦œ

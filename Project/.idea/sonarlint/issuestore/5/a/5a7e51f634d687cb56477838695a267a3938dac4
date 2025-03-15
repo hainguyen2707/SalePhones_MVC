@@ -1,0 +1,75 @@
+
+p
+java:S2293”"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿ³‡
+k
+java:S1192O"PDefine a constant instead of duplicating this literal "      ,[price]
+" 5 times.(íÉÿÆûÿÿÿÿ
+a
+java:S1192""FDefine a constant instead of duplicating this literal "price" 9 times.(“™§øÿÿÿÿ
+q
+java:S1192P"VDefine a constant instead of duplicating this literal "      ,[releaseDate]
+" 5 times.(·¾ÕÆûÿÿÿÿ
+f
+java:S1192R"PDefine a constant instead of duplicating this literal "      ,[image]
+" 5 times.(ÍµŒù
+\
+java:S1192%"FDefine a constant instead of duplicating this literal "image" 9 times.(á…Úô
+d
+java:S1192!"IDefine a constant instead of duplicating this literal "quantity" 9 times.(‚êö˜ıÿÿÿÿ
+b
+java:S1192#"LDefine a constant instead of duplicating this literal "releaseDate" 9 times.(Ö°ÈÌ
+h
+java:S1192L"MDefine a constant instead of duplicating this literal "SELECT [ID]
+" 5 times.(îâ–Ôûÿÿÿÿ
+i
+java:S1192Q"SDefine a constant instead of duplicating this literal "      ,[describe]
+" 5 times.(Ìø°Â
+e
+java:S1192M"ODefine a constant instead of duplicating this literal "      ,[name]
+" 5 times.(Ó«ñ
+i
+java:S1192S"NDefine a constant instead of duplicating this literal "      ,[cid]
+" 5 times.(‡µ‘›ÿÿÿÿÿ
+n
+java:S1192N"SDefine a constant instead of duplicating this literal "      ,[quantity]
+" 5 times.(á½ÖËúÿÿÿÿ
+o
+java:S1192T"YDefine a constant instead of duplicating this literal "  FROM [dbo].[products]
+" 5 times.(¿Öä§
+e
+java:S1192$"JDefine a constant instead of duplicating this literal "describe" 10 times.(èøéúşÿÿÿÿ
+2
+java:S1643|"Use a StringBuilder instead.(Àıô
+p
+java:S1488æ"YImmediately return this expression instead of assigning it to the temporary variable "c".(µ“Óö
+|
+java:S1149“"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÅÌÌ›
+|
+java:S1149”"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÿ³‡
+{
+java:S1149û"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¶“ìt
+>	java:S108*")Either remove or fill this block of code.(É®£
+>	java:S108<")Either remove or fill this block of code.(É®£
+M
+java:S6126L"2Replace this String concatenation with Text block.(îâ–Ôûÿÿÿÿ
+>	java:S108h")Either remove or fill this block of code.(É®£
+M
+java:S6126o"2Replace this String concatenation with Text block.(îâ–Ôûÿÿÿÿ
+?	java:S108“")Either remove or fill this block of code.(É®£
+N
+java:S6126š"2Replace this String concatenation with Text block.(îâ–Ôûÿÿÿÿ
+?	java:S108¶")Either remove or fill this block of code.(É®£
+N
+java:S6126½"2Replace this String concatenation with Text block.(îâ–Ôûÿÿÿÿ
+?	java:S108Ú")Either remove or fill this block of code.(É®£
+F	java:S106ë"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+N
+java:S6126ò"2Replace this String concatenation with Text block.(îâ–Ôûÿÿÿÿ
+?	java:S108")Either remove or fill this block of code.(É®£
+R	java:S125ª"<This block of commented-out lines of code should be removed.(Ìå¸ˆ
+P
+java:S1854û":Remove this useless assignment to local variable "vector".(¶“ìt
+W	java:S125ß"<This block of commented-out lines of code should be removed.(ŸÂíúûÿÿÿÿ
+F	java:S106ı"+Replace this use of System.out by a logger.(şá¸‰ıÿÿÿÿ
+S
+java:S1144È"7Remove this unused private "getProductInfoById" method.(ı Ÿ¤úÿÿÿÿ

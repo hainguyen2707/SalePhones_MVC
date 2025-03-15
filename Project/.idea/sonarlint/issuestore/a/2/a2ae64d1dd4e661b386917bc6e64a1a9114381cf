@@ -1,0 +1,25 @@
+
+_
+java:S1192"IDefine a constant instead of duplicating this literal "Password" 3 times.(Ðô°§
+_
+java:S1192"IDefine a constant instead of duplicating this literal "Username" 3 times.(Ðô°§
+o
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "a".(Ðô°§
+o
+java:S1488S"YImmediately return this expression instead of assigning it to the temporary variable "a".(Ðô°§
+o
+java:S1488f"YImmediately return this expression instead of assigning it to the temporary variable "a".(Ðô°§
+E	java:S106"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ
+H
+java:S6126&"2Replace this String concatenation with Text block.(¬û¿¹
+E	java:S1062"+Replace this use of System.out by a logger.(¨¶ÑÍþÿÿÿÿ
+H
+java:S61267"2Replace this String concatenation with Text block.(¬û¿¹
+E	java:S106C"+Replace this use of System.out by a logger.(¨¶ÑÍþÿÿÿÿ
+M
+java:S6126H"2Replace this String concatenation with Text block.(Òå…Àùÿÿÿÿ
+E	java:S106W"+Replace this use of System.out by a logger.(¨¶ÑÍþÿÿÿÿ
+M
+java:S6126\"2Replace this String concatenation with Text block.(Òå…Àùÿÿÿÿ
+E	java:S106j"+Replace this use of System.out by a logger.(¨¶ÑÍþÿÿÿÿ
+?	java:S106r"+Replace this use of System.out by a logger.(øóßG

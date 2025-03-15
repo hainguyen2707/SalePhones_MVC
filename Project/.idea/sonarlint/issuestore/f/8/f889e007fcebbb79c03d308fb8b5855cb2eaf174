@@ -1,0 +1,21 @@
+
+_
+java:S1192"IDefine a constant instead of duplicating this literal "describe" 4 times.(µ“Óö
+o
+java:S1488>"YImmediately return this expression instead of assigning it to the temporary variable "c".(µ“Óö
+E	java:S106!"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+M
+java:S6126'"2Replace this String concatenation with Text block.(œ”á€ıÿÿÿÿ
+E	java:S1063"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+E	java:S106C"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+E	java:S106P"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+M
+java:S6126U"2Replace this String concatenation with Text block.(–•õÚùÿÿÿÿ
+>	java:S108_")Either remove or fill this block of code.(”ı¾
+H
+java:S6126f"2Replace this String concatenation with Text block.(§‰Í’
+?	java:S108€")Either remove or fill this block of code.(É®£
+I
+java:S6126†"2Replace this String concatenation with Text block.(§‰Í’
+?	java:S108 ")Either remove or fill this block of code.(É®£
+A	java:S106¨"+Replace this use of System.out by a logger.(º¹û
