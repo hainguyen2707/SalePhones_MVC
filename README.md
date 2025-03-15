@@ -17,11 +17,8 @@ Chức năng **ADMIN**:
   - Quản lý khối lượng lớn dữ liệu (sản phẩm, đơn hàng, thông tin khách hàng) một cách hiệu quả có thể gặp khó khăn
   
   <h3> Screenshots </h3>
-  **Cơ bản**
   Trang chủ:
   ![image](https://github.com/user-attachments/assets/059b6d07-f395-42fb-97eb-e0ccbca258a3)
-
-
   Khuyễn mại:
   ![image](https://github.com/user-attachments/assets/1d92286b-e3a9-4b47-85f1-524c66ef60aa)
   Đăng nhập:
