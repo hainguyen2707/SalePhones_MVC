@@ -19,7 +19,8 @@ Chức năng **ADMIN**:
   <h3> Screenshots </h3>
   **Cơ bản**
   Trang chủ:
-  ![image](https://github.com/user-attachments/assets/1eff0298-037e-4ca2-a870-cad4f504dad0)
+  ![image](https://github.com/user-attachments/assets/b2881f98-59f5-458f-910c-df9fce38fba8)
+
 
   ![image](https://github.com/user-attachments/assets/1d92286b-e3a9-4b47-85f1-524c66ef60aa)
   Đăng nhập:
