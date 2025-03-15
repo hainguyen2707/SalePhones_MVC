@@ -37,6 +37,9 @@ Chức năng **ADMIN**:
 
   Stock:
 
+  ![image](https://github.com/user-attachments/assets/939e07f2-3d93-46b8-b717-01abcac7019b)
+
+
   ![image](https://github.com/user-attachments/assets/ca35a27f-5cec-4af2-b6b3-eff45aae3f1c)
 
 
