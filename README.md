@@ -19,9 +19,10 @@ Chức năng **ADMIN**:
   <h3> Screenshots </h3>
   **Cơ bản**
   Trang chủ:
-  ![image](https://github.com/user-attachments/assets/b2881f98-59f5-458f-910c-df9fce38fba8)
+  ![image](https://github.com/user-attachments/assets/059b6d07-f395-42fb-97eb-e0ccbca258a3)
 
 
+  Khuyễn mại:
   ![image](https://github.com/user-attachments/assets/1d92286b-e3a9-4b47-85f1-524c66ef60aa)
   Đăng nhập:
   ![image](https://github.com/user-attachments/assets/dc9d58d0-3993-440a-b38c-b195c2661994)
