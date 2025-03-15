@@ -31,5 +31,14 @@ Chức năng **ADMIN**:
   
   ![image4](https://github.com/user-attachments/assets/a1a8c21a-0d3e-4a3b-bd01-f56764693163)     
 
+  Cart:
+
+  ![image](https://github.com/user-attachments/assets/a50e0d44-5260-4c7e-84a3-e48b5e0282e0)
+
+  Stock:
+
+  ![image](https://github.com/user-attachments/assets/ca35a27f-5cec-4af2-b6b3-eff45aae3f1c)
+
+
   
   ![image](https://github.com/user-attachments/assets/76642f73-9271-4e0d-aaf5-e941d56adcff)
